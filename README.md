@@ -9,7 +9,7 @@ Paper: [https://www.biorxiv.org/content/10.1101/2023.05.17.541204v1](https://www
 2. **Notebooks Folder**
    1. Contains example workflow 
    2. *Preprocessing* delineates log normalization and standard scaling of morphological data
-   3. Senescence UMAP_KMEANS* describes 2D dimensionality reduction and identification of KMEANS clusters
+   3. *Senescence UMAP_KMEANS* describes 2D dimensionality reduction and identification of KMEANS clusters
    4. *Biomarker Imputation Platform* describes imputation platform using morphology to predict un-stained biomarker expression
    5. *Recombat* describes reComBat batch correction for biomarkers between biorepeats
    6. *Time Series KMEANS* describes time series kmeans for cell morphological trajectories
